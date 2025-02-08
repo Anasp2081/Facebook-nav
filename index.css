@@ -1,0 +1,71 @@
+.header{
+    width: 100%;
+    height: 85px;
+    background-color: #3b5998;
+}   
+body{
+    margin: 0%;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.logo{
+    width: 50%; 
+    padding-top: 30px;
+    float: left;
+}
+.login{
+    width: 50%;
+    float: left;
+    padding-top: 12px;
+   
+
+}
+.logo-text{
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 40px;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    margin-left: 170px;
+  
+
+}
+.clr{
+    color: #fff;
+    font-size: 11px;
+}
+.login-controls{
+    margin-left: 115px;
+    
+    
+}
+.Password{
+    font-size: 11px;
+    color: #9CB4D8;
+    text-decoration: none;
+    
+}
+.sub-btn{
+    background-color: #4267b2;
+    color: #fff;
+    height: 20px;
+    border-color: #29487d;
+    cursor: pointer;
+}
+.sub-btn:hover{
+    color: rgb(197, 200, 204);
+    background-color: #365386;
+    
+}
+.main-body{
+    width: 100%;
+    height: 500px;
+    background: linear-gradient(white, #d3d8e8);
+}
+.right-section{
+    width: 50%;
+    float: left;
+}
+.left-section{
+    width: 50%;
+    float: left;
+}
